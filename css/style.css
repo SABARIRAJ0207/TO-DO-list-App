@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@400;500;600;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background: #333332;
+}
+
+body{
+    background: whitesmoke;
+    color: #332322;
+    height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+
+h1{
+   
+    padding: 5px;
+    margin-bottom: 50px;
+
+}
+
+h1 small{
+    font-weight: normal;
+    color: turquoise;
+    display: block;
+}
+
+#status{
+    padding: 10px;
+    color:rgb(123, 88, 248);
+}
+
+div{
+    padding: 10px;
+}
+
+
+#board h3{
+    padding: 5px;
+    color: rgb(253, 153, 23);
+}
+
+lable{
+    display: block;
+    padding: 5px;
+}
+
+button{
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    background-color: rgb(71, 71, 252);
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+button:hover{
+    background-color: rgb(24, 24, 245);
+}
